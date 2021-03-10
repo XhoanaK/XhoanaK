@@ -12,7 +12,7 @@ Hi fellow developer, I'm Xhoana Koca a recent graduate from City Tech (CUNY).
 <!-- TODO: Add last video link -->
 **Learn about me** 
 - 🌱 I’m currently learning Kotlin
-- 📄 Get to know about my experiences in [my resume](https://github.com/XhoanaK/resume/blob/main/Xhoana%20Koca%20resume.pdf)
+- 📄 Get to know about my experiences in [my resume](https://github.com/XhoanaK/XhoanaK/blob/master/resume/xhoanaKocaResume.pdf)
 - ⚡ Fun fact: I can speak two languages
 - 📫 How to reach me: xhoanakoca@gmail.com
 
@@ -36,7 +36,7 @@ Hi fellow developer, I'm Xhoana Koca a recent graduate from City Tech (CUNY).
 
 
 **Reach Out**
-- :paperclip: [My Resume/CV](https://github.com/XhoanaK/resume/blob/main/Xhoana%20Koca%20resume.pdf)
+- :paperclip: [My Resume/CV](https://github.com/XhoanaK/XhoanaK/blob/master/resume/xhoanaKocaResume.pdf)
 - :email: xhoanakoca@gmail.com
 
 
