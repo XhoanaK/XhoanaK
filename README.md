@@ -35,7 +35,6 @@ Hi fellow developer, I'm Xhoana Koca a recent graduate from City Tech (CUNY).
 
 
 **Reach Out**
-- :paperclip: [My Resume/CV](https://github.com/XhoanaK/XhoanaK/blob/master/resume/xhoanaKocaResume.pdf)
 - :email: xhoanakoca@gmail.com
 
 
