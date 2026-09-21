@@ -1,40 +1,44 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm Xhoana Koca.</h1>
+<h1 align="center">Hi, I'm Xhoana Koca 👋</h1>
 
+<p align="center">
+  Business Analyst & QA Analyst · West Hartford, CT · Open to remote
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Xhoana-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xhoana-koca/) [![Mail Badge](https://img.shields.io/badge/-@joeyful_coder-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/joeyful.coder) [![Mail Badge](https://img.shields.io/badge/-xhoana-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:xhoanakoca@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/xhoana-koca/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:xhoanakoca@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://xhoanakoca.netlify.app">
+    <img src="https://img.shields.io/badge/-Portfolio-1a3a6b?style=flat&labelColor=1a3a6b&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
-Hi fellow developer, I'm Xhoana Koca a recent graduate from City Tech (CUNY).
+---
 
+I'm a Business Analyst and QA Analyst with 4+ years of experience in enterprise software delivery. I bridge the gap between business stakeholders and development teams — writing requirements, running UAT/SIT/regression cycles, and making sure releases go out on time.
 
+- 🏢 Previously at **Citi Group** — BA/QA across global teams in NA, EU, APAC
+- 📱 Built **CitizenReady** — a React Native app to help immigrants prep for the US citizenship test
+- 🌍 Originally from Albania, based in Connecticut
+- 📫 Reach me at xhoanakoca@gmail.com
 
+---
 
+**Tools & Skills**
 
-<!-- TODO: Add last video link -->
-**Learn about me** 
-- 🌱 I’m currently learning Kotlin
-- ⚡ Fun fact: I can speak two languages
-- 📫 How to reach me: xhoanakoca@gmail.com
-
-**Languages and Tools:** 
-
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![JIRA](https://img.shields.io/badge/-JIRA-black?logo=jira&style=social)&nbsp;&nbsp;
+![Confluence](https://img.shields.io/badge/-Confluence-black?logo=confluence&style=social)&nbsp;&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-<br />
-<br/>
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)&nbsp;&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-black?logo=react&style=social)&nbsp;&nbsp;
 
-**Github Stats**
+---
 
-[![Xhoanas GitHub stats](https://github-readme-stats.vercel.app/api?username=xhoanak&count_private=true&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/xhoanak/github-readme-stats)
+**GitHub Stats**
 
-
-**Reach Out**
-- :email: xhoanakoca@gmail.com
-
-
+[![Xhoana's GitHub stats](https://github-readme-stats.vercel.app/api?username=xhoanak&count_private=true&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/xhoanak)
