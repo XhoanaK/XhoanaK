@@ -38,7 +38,3 @@ I'm a Business Analyst and QA Analyst with 4+ years of experience in enterprise 
 ![React Native](https://img.shields.io/badge/-React%20Native-black?logo=react&style=social)&nbsp;&nbsp;
 
 ---
-
-**GitHub Stats**
-
-[![Xhoana's GitHub stats](https://github-readme-stats.vercel.app/api?username=xhoanak&count_private=true&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/xhoanak)
